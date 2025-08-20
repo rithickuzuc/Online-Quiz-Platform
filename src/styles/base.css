@@ -1,0 +1,4 @@
+:root { --bg:#f6f7fb; --card:#fff; --text:#111; --muted:#6b7280; --primary:#111; --border:#e5e7eb; }
+*{box-sizing:border-box} body{margin:0;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial;background:var(--bg);color:var(--text)}
+a{color:inherit;text-decoration:none}
+input,textarea,button{font:inherit}
